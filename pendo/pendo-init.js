@@ -11,6 +11,7 @@
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
+		    id: "darshan@pendo.io",
                title: "Darshan",
 			   author: "DarshanH",
 			   publish_date: "July 5th, 2023",
@@ -18,6 +19,7 @@
             },
 
             account: {
+		    id: "Google",
                 info: "nothing",
 				subject: "make more"
             }
