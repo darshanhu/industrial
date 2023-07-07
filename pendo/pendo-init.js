@@ -15,7 +15,8 @@
                title: "Darshan",
 			   author: "DarshanH",
 			   publish_date: "July 5th, 2023",
-			   category: "industrial"
+			   category: "industrial",
+		     	   roles: ['admin', 'end-user', 'super-user'],
             },
 
             account: {
