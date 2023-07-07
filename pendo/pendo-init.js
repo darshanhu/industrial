@@ -16,7 +16,7 @@
 			   author: "DarshanH",
 			   publish_date: "July 5th, 2023",
 			   category: "industrial",
-		     	   roles: ['admin', 'end-user', 'super-user'],
+		     	   colors: ['orange', 'red', 'pink'],
             },
 
             account: {
