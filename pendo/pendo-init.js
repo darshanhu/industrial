@@ -17,6 +17,7 @@
 			   publish_date: "July 5th, 2023",
 			   category: "industrial",
 		     	   colors: ['orange', 'red', 'pink'],
+		    class: "degree"
             },
 
             account: {
