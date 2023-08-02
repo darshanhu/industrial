@@ -11,13 +11,14 @@
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
-		    id: "darshan@pendo.io",
-               title: "Darshan",
-			   author: "DarshanH",
-			   publish_date: "July 5th, 2023",
-			   category: "industrial",
-		     	   colors: ['orange', 'red', 'pink'],
-		    class: "degree"
+		    // id: "darshan@pendo.io",
+		    id: ""
+      //          title: "Darshan",
+			   // author: "DarshanH",
+			   // publish_date: "July 5th, 2023",
+			   // category: "industrial",
+		    //  	   colors: ['orange', 'red', 'pink'],
+		    // class: "degree"
             },
 
             account: {
