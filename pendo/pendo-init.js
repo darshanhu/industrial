@@ -5,17 +5,15 @@
         y=e.createElement(n);y.async=!0;y.src='https://cdn.pendo.io/agent/static/'+apiKey+'/pendo.js';
         z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
 
-        // This function creates anonymous visitor IDs in Pendo unless you change the visitor id field to use your app's values
-        // This function uses the placeholder 'ACCOUNT-UNIQUE-ID' value for account ID unless you change the account id field to use your app's values
-        // Call this function after users are authenticated in your app and your visitor and account id values are available
+        // This function creates visitors and accounts in Pendo
+        // You will need to replace <visitor-id-goes-here> and <account-id-goes-here> with values you use in your app
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
-                id: "kunal.mehta@jitterbit.com",
-                full_name: "kunal mehta",               
+                id: "kunal.mehta@jitterbit.com",               
             },
             account: {
-                id: "test-account",
+                id: "test-account"
             },
         });
-})('43994d6b-66ea-49fc-71f1-31077e387150-disabled');
+})('43994d6b-66ea-49fc-71f1-31077e387150');
