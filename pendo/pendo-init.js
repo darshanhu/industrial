@@ -10,6 +10,12 @@
         // Call this function after users are authenticated in your app and your visitor and account id values are available
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
-            
+            visitor: {
+                id: "kunal.mehta@jitterbit.com",
+                full_name: "kunal mehta",               
+            },
+            account: {
+                id: "test-account",
+            },
         });
 })('43994d6b-66ea-49fc-71f1-31077e387150-disabled');
