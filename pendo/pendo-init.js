@@ -10,7 +10,8 @@
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
-                id: "padapom305@fresec.com",               
+                id: "padapom305@fresec.com",   
+                email: "padapom305@fresec.com"
             },
             account: {
                 id: "test-account"
