@@ -14,7 +14,8 @@
                 email: "padapom305@fresec.com"
             },
             account: {
-                id: "test-account"
+                id: "test-account",
+                customLanguage: "hi"
             },
         });
 })('43994d6b-66ea-49fc-71f1-31077e387150');
