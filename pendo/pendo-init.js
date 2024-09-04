@@ -12,7 +12,9 @@
             visitor: {
                 id: "padapom305@fresec.com",   
                 email: "padapom305@fresec.com",
-                customLanguage: "hi"
+                customLanguage: "hi",
+                listProperty: ['400', '401', '402', '403', '405', '130'],
+                numericProperty: [1200, 1300, 1400, 1500]
             },
             account: {
                 id: "test-account"
